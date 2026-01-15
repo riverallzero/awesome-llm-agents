@@ -22,6 +22,7 @@ The detailed thought process of forming this project is documented at this [Medi
 - Directional Stimulus Prompting (UCSB & Microsoft, 2023, [NeurIPS](https://arxiv.org/pdf/2302.11520))
 - Active Prompting with Chain-of-Thought for Large Language Models (HKUST etc., Jul 2024, [arXiv](https://arxiv.org/pdf/2302.12246))
 - Step-Back Prompting Enables Reasoning Via Abstraction in Large Language Models (DeepMind, Mar 2024, [arXiv](https://arxiv.org/pdf/2310.06117))
+- Chain-of-Verification Reduces Hallucination in Large Language Models (Meta AI, 2024, [ACL](https://aclanthology.org/2024.findings-acl.212.pdf))
 
 ## LLM Core — Retrieval-Augmented Generation
 - Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach (DeepMind, Jul 2024, [arXiv](https://www.arxiv.org/pdf/2407.16833))
